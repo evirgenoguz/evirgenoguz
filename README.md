@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Oguz Evirgen</h1>
 <h3 align="center">A passionate Android Developer from TURKEY</h3>
 
-- 🌱 I’m currently learning ** Android Development(Kotlin) and Java Spring **
+- 🌱 I’m currently learning ** Android Development(Kotlin)**
 
 - 👨‍💻 All of my projects are available at [https://evirgenoguz.github.io/](https://evirgenoguz.github.io/)
 
