@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Oguz Evirgen</h1>
 <h3 align="center">A passionate Android Developer from TURKEY</h3>
 
-- 🌱 I’m currently learning ** Android Development(Kotlin)**
+- 🌱 I’m currently working as an Android Developer at Innova Bilisim in Turk Telekom Project
+
+- 🌱 I’m currently learning Jetpack Compose and Kotlin Multiplatform
 
 - 👨‍💻 All of my projects are available at [https://evirgenoguz.github.io/](https://evirgenoguz.github.io/)
 
